@@ -1,8 +1,8 @@
-﻿# 🤘 Hi! I'm Augusto
+﻿# 🤘 Hi! I'm Henrique
 
 - 🚀 &nbsp; Searching for a new professional experience!
-- 🌳 &nbsp; Currently deepening my knowledge in Angular.
-- 🎓 &nbsp; FIAP - Internet Systems | ITB - Internet computing | Online courses.
+- 🌳 &nbsp; Currently deepening my knowledge in React.
+- 🎓 &nbsp; Alura Online courses.
 - ☎️ &nbsp; [LinkedIn](www.linkedin.com/in/henrique-guimarães-35426b233).
 
 #### 📚 &nbsp; Skills:
